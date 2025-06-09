@@ -1,3 +1,5 @@
+### Mamram Rules
+
 # 🚀 Java CI Pipeline with GitHub Actions
 
 This project includes a simple **Continuous Integration (CI)** pipeline powered by **GitHub Actions**. It automatically builds your Java application on every code push using a custom `build.sh` script.
